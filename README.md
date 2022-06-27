@@ -42,7 +42,7 @@ The library contains the class `DrfpEncoder` with one public method `encode`.
 The Buchwald-Hatwig reaction dataset consists of four columns ,i.e, Ligands,Bases,Aryl Halides and additives in their molecular form. We used the MolToSmiles function from rdkit library to convert these four columns into single text based representation known as smiles.   
 
 <div style="text-align: center">
-<img src="images/dataset.png" width="800" style="max-width: 800px">
+<img src="image/dataset.png" width="800" style="max-width: 800px">
 
 ---
 
